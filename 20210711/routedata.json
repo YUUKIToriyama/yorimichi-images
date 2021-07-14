@@ -28,16 +28,16 @@
 			"name": "高野橋東詰",
 			"description": "北大路通を左折。川端通へ。松ヶ崎の山と比叡山が見えます。まずは八瀬を目指そう",
 			"location": {
-				"latitude": 35.028858,
-				"longitude": 135.759258
+				"latitude": 35.042544,
+				"longitude": 135.779397
 			}
 		},
 		{
 			"name": "セブンイレブン京都八瀬駅前店",
 			"description": "コンビニで補給＆タバコ休憩",
 			"location": {
-				"latitude": 35.028858,
-				"longitude": 135.759258
+				"latitude": 35.067924, 
+				"longitude": 135.809135
 			}
 		},
 		{
